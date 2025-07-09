@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187858471383",
+    "project_id": "testauth-8366e",
+    "storage_bucket": "testauth-8366e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187858471383:android:130553df1fd016bbfbe392",
+        "android_client_info": {
+          "package_name": "com.example.detect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187858471383-lis69g1nnlsotclddmbba6snp9sr8dhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.detect",
+            "certificate_hash": "16975494e42f9fd74ed513c390a62c4083539df3"
+          }
+        },
+        {
+          "client_id": "187858471383-8nlpsa67vl8318iocc1fb2bi9qqm1trt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLL6mHlNgY3RQIZjl6xPskeO7hPRwTuoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187858471383-8nlpsa67vl8318iocc1fb2bi9qqm1trt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
